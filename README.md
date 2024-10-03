@@ -1,4 +1,4 @@
-# European Credit Card Fraud Detection Capstone Project
+# European Credit Card Fraud Detection - Capstone Project
 
 This project aims to detect fraudulent credit card transactions using the Kaggle European Credit Card Fraud dataset. As part of my capstone project, I will compare the performance of various traditional machine learning models (e.g., Logistic Regression, Random Forest, etc.) with deep learning approaches, including Multilayer Perceptron (MLP) and Autoencoders.
 
