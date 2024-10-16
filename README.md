@@ -1,10 +1,14 @@
-# European Credit Card Fraud Detection - Capstone Project
+# Credit Card Fraud Detection: A Comparative Analysis of Traditional Machine Learning and Neural Network Approaches
 
-This project aims to detect fraudulent credit card transactions using the Kaggle European Credit Card Fraud dataset. As part of my capstone project, I will compare the performance of various traditional machine learning models (e.g., Logistic Regression, Random Forest, etc.) with deep learning approaches, including Multilayer Perceptron (MLP) and Autoencoders.
+This project investigates methods for detecting credit card and mobile money fraud by comparing traditional machine learning models (XGBoost, Random Forest) with neural network architectures (MLPs). Using the highly imbalanced Kaggle European Credit Card Fraud dataset and the PaySim mobile money transaction dataset, the analysis focuses on:
 
-**Project Features**:
-- Dataset: [Kaggle European Credit Card Fraud Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
-- Algorithms: Logistic Regression, Random Forest, MLP, Autoencoders
-- Comparative Analysis: Results will be compared with a similar study to evaluate the performance.
+- Model performance
+- Class imbalance management
+- Computational efficiency
 
-This repository will contain all the code, documentation, and results related to the project.
+The project aims to provide insights into the effectiveness of these approaches for fraud detection. It is implemented using Python, with the following libraries:
+
+- **scikit-learn** for traditional machine learning models
+- **TensorFlow/Keras** for neural network models
+- **pandas**, **numpy**, **matplotlib**, and **seaborn** for data manipulation and visualization
+
