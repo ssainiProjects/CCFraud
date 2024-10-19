@@ -1,19 +1,14 @@
 # Credit Card Fraud Detection: A Comparative Analysis of Traditional Machine Learning and Neural Network Approaches
 
-This project investigates methods for detecting credit card and mobile money fraud by comparing traditional machine learning models (XGBoost, Random Forest) with neural network architectures (MLPs). Using the highly imbalanced Kaggle European Credit Card Fraud dataset and the PaySim mobile money transaction dataset, the analysis focuses on:
+This project explores and compares traditional machine learning models (XGBoost, Random Forest) with neural network architectures (MLPs) for detecting fraud in two imbalanced datasets: the Kaggle European Credit Card Fraud dataset and the PaySim mobile money transaction dataset.
 
-- Model performance
-- Class imbalance management
-- Computational efficiency
+### Key Research Questions
+1. How do traditional machine learning models compare with neural networks in detecting credit card and mobile money fraud?
+2. What techniques can be used to manage class imbalance across both datasets?
+3. How do traditional models and neural networks compare in terms of complexity and computational efficiency?
 
-### Research Questions
-1. How do traditional machine learning models, such as XGBoost and Random Forest, compare with neural network architectures like Multi-Layer Perceptrons (MLPs) in detecting credit card and mobile money fraud?
-2. How can class imbalance be effectively managed across both datasets to enhance model performance?
-3. How do the complexity and computational efficiency (e.g., training time, inference speed) of traditional machine learning models compare to neural network architectures for fraud detection?
+The project is implemented using Python, with key tools including:
 
-The project aims to provide insights into the effectiveness of these approaches for fraud detection. It is implemented using Python, with the following libraries:
-
-- **scikit-learn** for traditional machine learning models
-- **TensorFlow/Keras** for neural network models
+- **scikit-learn** for machine learning models
+- **TensorFlow/Keras** for neural networks
 - **pandas**, **numpy**, **matplotlib**, and **seaborn** for data manipulation and visualization
-
