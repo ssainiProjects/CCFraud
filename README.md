@@ -12,3 +12,9 @@ The project is implemented using Python, with key tools including:
 - **scikit-learn** for machine learning models
 - **TensorFlow/Keras** for neural networks
 - **pandas**, **numpy**, **matplotlib**, and **seaborn** for data manipulation and visualization
+
+Kaggle Europen Fraud Dataset: 
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
+
+Paysim Fraud Dataset:
+https://www.kaggle.com/datasets/ealaxi/paysim1
