@@ -14,7 +14,7 @@ The project is implemented using Python, with key tools including:
 - **pandas**, **numpy**, **matplotlib**, and **seaborn** for data manipulation and visualization
 
 All code can be found in 2 files:
-'Kaggle CCFraud Code Submission.html'
+'Kaggle CCFraud Code Submission.html' AND  
 'paysim fraud code submission.html'
 
 Kaggle Europen Fraud Dataset: 
