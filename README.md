@@ -13,6 +13,10 @@ The project is implemented using Python, with key tools including:
 - **TensorFlow/Keras** for neural networks
 - **pandas**, **numpy**, **matplotlib**, and **seaborn** for data manipulation and visualization
 
+All code can be found in 2 files:
+'Kaggle CCFraud Code Submission.html'
+'paysim fraud code submission.html'
+
 Kaggle Europen Fraud Dataset: 
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
