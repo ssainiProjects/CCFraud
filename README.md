@@ -13,7 +13,7 @@ The project is implemented using Python, with key tools including:
 - **TensorFlow/Keras** for neural networks
 - **pandas**, **numpy**, **matplotlib**, and **seaborn** for data manipulation and visualization
 
-This project is now complete. The final report details how traditional ML models, particularly XGBoost, outperformed the MLP in this study, delivering better detection performance and computational efficiency. 
+The final report details how traditional ML models, particularly XGBoost, outperformed the MLP in this study, delivering better detection performance and computational efficiency. 
 It also explains how SMOTE demonstrated its usefulness by addressing the data imbalance without compromising the majority class, and RandomUnderSampler led to unusable results. 
 
 All code can be found in 2 files:
